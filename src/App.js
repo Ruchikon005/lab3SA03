@@ -6,10 +6,11 @@ const word = "Hello";
 function App() {
   return (
     <div>
+        Game
         <WordCard value="hello"/>
     </div>
   );
-  
+
 }
 
 

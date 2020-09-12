@@ -59,6 +59,10 @@
   margin: 1em;
   user-select: none;
  }
+ .center {
+   text-align: center;
+   color: rgb(44, 44, 44);
+ }
  
  .activeCard {
   color: red;
