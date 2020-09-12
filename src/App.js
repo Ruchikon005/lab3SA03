@@ -6,8 +6,7 @@ const word = "Hello";
 function App() {
   return (
     <div>
-        Game
-        <WordCard value="hello"/>
+      <WordCard value="hello" />
     </div>
   );
 
